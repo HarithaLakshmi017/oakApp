@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bin/
 .settings/
 target/
@@ -26,3 +27,7 @@ target/
 hs_err_pid*
 >>>>>>> c1e6a68d653ac603af34dfd60bdf27b6cdceb11f
 /target/
+=======
+/build/
+/target/
+>>>>>>> ef2e8c6815fff58c834ab6c8037773783330b619
